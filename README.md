@@ -8,6 +8,5 @@
 
 Para más información visita: ![google](https://google.cl)
 
-'''python
-    print("Hola mundo")
-'''
+```Python
+    Print("Hola mundo")
